@@ -1,0 +1,2 @@
+polat alemdar:100,85,90
+elif eylül:85,45,74
